@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.15.7](https://github.com/dadrus/heimdall/compare/v0.15.6...v0.15.7) (2025-02-20)
+
+
+### Dependencies
+
+* update module github.com/grpc-ecosystem/go-grpc-middleware/v2 to v2.3.0 ([#2192](https://github.com/dadrus/heimdall/issues/2192)) ([d4c2d83](https://github.com/dadrus/heimdall/commit/d4c2d8387b0bcbd024db8293de8a19ca8508be7d))
+* update module github.com/prometheus/client_golang to v1.21.0 ([#2197](https://github.com/dadrus/heimdall/issues/2197)) ([221cccc](https://github.com/dadrus/heimdall/commit/221cccc05dd4e6f9b05647bae6818861e13cc751))
+* update module github.com/spf13/cobra to v1.9.1 ([#2188](https://github.com/dadrus/heimdall/issues/2188)) ([c0590d6](https://github.com/dadrus/heimdall/commit/c0590d6c66a405f72a895606365ff1287d869491))
+
 ## [0.15.6](https://github.com/dadrus/heimdall/compare/v0.15.5...v0.15.6) (2025-02-16)
 
 
