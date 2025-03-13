@@ -3,7 +3,7 @@ entries:
   heimdall:
   - apiVersion: v2
     appVersion: 0.15.9
-    created: "2025-03-13T16:55:28.274553585+01:00"
+    created: "2025-03-13T16:57:40.051340988+01:00"
     description: A cloud native Identity Aware Proxy and Access Control Decision Service
     digest: 6a5bcb24e5e4f7612269783985ec064b116013c4efb40a77e6a73d1f6bda5081
     home: https://dadrus.github.io/heimdall/
@@ -31,4 +31,4 @@ entries:
     urls:
     - http://zadkiel.fr/heimdall/charts/heimdall-0.15.0.tgz
     version: 0.15.0
-generated: "2025-03-13T16:55:28.273096755+01:00"
+generated: "2025-03-13T16:57:40.050388911+01:00"
